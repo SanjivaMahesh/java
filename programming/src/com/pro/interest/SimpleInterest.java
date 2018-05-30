@@ -1,0 +1,8 @@
+package com.pro.interest;
+
+public class SimpleInterest {
+	public static void main(String[] args) {
+		
+	}
+
+}
